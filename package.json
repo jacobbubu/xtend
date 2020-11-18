@@ -95,7 +95,7 @@
     "prompt": "^1.0.0",
     "replace-in-file": "^5.0.2",
     "rimraf": "^3.0.0",
-    "semantic-release": "^15.14.0",
+    "semantic-release": "^17.2.3",
     "shelljs": "^0.8.3",
     "ts-jest": "^24.2.0",
     "ts-node": "^8.5.4",
